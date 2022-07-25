@@ -1,5 +1,5 @@
 # 3D_Reconstruction
-3D reconstruction using stereo image
+3D Reconstruction using stereo image
 
 Robot Senseor Data Processing Midterm Project
 
