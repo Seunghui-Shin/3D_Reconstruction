@@ -12,7 +12,7 @@ Robot Senseor Data Processing Midterm Project
 
 4. Visualization
 
-# Result
+# Results
 ![image](https://user-images.githubusercontent.com/83438707/180744359-0e81558d-363d-4281-9f5b-eca03a3cdd16.png)
 ![image](https://user-images.githubusercontent.com/83438707/180744386-091c04e2-dc2a-43b8-9aa5-172072e99e88.png)
 
